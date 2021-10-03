@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Javascript, Vue.js, Webpack etc..
+- 🛠 I’m currently learning Javascript, Vue.js, Webpack etc..
 
 
 
