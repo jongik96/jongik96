@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🛠 I’m currently learning Javascript, Vue.js, Webpack etc..
+- 🛠 I’m currently learning Javascript, Vue.js, Nuxt.js Webpack etc..
 
 
 
 ## **Contact & Blog**
-
 ---
 
 - **Email** | pji3504@naver.com
