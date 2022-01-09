@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - **Email** | pji3504@naver.com
 - **Github** | **[https://github.com/jongik96](https://github.com/jongik96)**
 - **Blog** | [velog](https://velog.io/@pji3504)
-           | [T-story](https://jongik.tistory.com)
+           | [Tistory](https://jongik.tistory.com)
