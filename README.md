@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongik96&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongik96&show_icons=true&theme=radical)
+
+
 - 🛠 I’m currently learning JavaScript, Vue.js, React, etc..
 
 
